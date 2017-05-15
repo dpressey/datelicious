@@ -62,7 +62,98 @@
 
 	</div>
 	<div class="row plans">
-		
+		<h2>The Plans</h2>
+
+		<ul class="list-unstyled">
+			<li class="plan col-md-6">
+				<h3>Do It Yourself Online Dating Profile</h3>
+				
+				<p>You’re confident that with a little guidance you can fine-tune your own online dating profile—this plan sets out the fundamentals and lets you fill in the details.</p>
+				
+				<p>This plan includes:</p>
+				
+				<ul>
+					<li>A self-guide to determine what’s important in your online dating profile.</li>
+
+					<li>Information about how to spot the red flags in your profile that cause users to shy away.</li>
+
+					<li>A guide to profile writing—the secret formula for success— including a template to assist you to correctly structure your profile.</li>
+
+					<li> Ideas for creating stand-out headings and why they matter.</li>
+
+					<li> A guide to choosing images and profile pics that get the results you’re looking for.</li>
+
+					<button class="btn btn-danger btn-lg">Buy Now - $19.95</button>
+				</ul>
+			</li>
+			
+			<li class="plan col-md-6">
+				<h3>Enhance Your Existing Online Dating Profile</h3>
+				
+				<p>If you currently have an online dating profile that is not getting satisfying results and allowing you to meet matches with true potential, the enhancement service could be the right plan for you.</p>
+				
+				<p>This plan includes:</p>
+				
+				<ul>
+					<li>A critique of your current online dating profile and, if required, a rewrite.</li>
+
+					<li>Provision of suggested improvements and tweaks.</li>
+					
+					<li>A review of your online photos— what works and what doesn’t.</li>
+
+					<li>Plus a bonus First Date Success Plan.</li>
+
+					<button class="btn btn-danger btn-lg">Buy Now - $79.00</button>
+				</ul>
+			</li>
+			
+			<li class="plan col-md-6">
+				<h3>Write My Online Dating Profile</h3>
+
+				<p>You need a profile that captures the essence of who you are, what makes you interesting, what you want in a partner, and why someone should click on you.</p>
+				
+				<p>This plan includes:</p>
+				
+				<ul>
+					<li>A bespoke online dating profile that makes you stand apart from the pack.</li>
+
+					<li>Provision of two suggested headings for your profile.</li>
+					
+					<li>A review of your photos and feedback on what works and what doesn’t, along with the order in which your images should be uploaded.</li>
+					
+					<li>Recommendations for the best dating sites based on your personality and where we believe you will have the most success. </li>
+
+					<li>Plus a bonus First Date Success Plan.</li>
+
+					<button class="btn btn-danger btn-lg">Buy Now - $149.00</button>
+				</ul>
+			</li>
+
+			<li class="plan col-md-6">
+				<h3>Write Your Online Dating Profile PLUS
+				Our Personalized Coaching Service</h3>
+
+				<p>This is the whole online-dating-enchilada. A one hour coaching call with a Dating Expert who will guide you toward achieving fast tracked results—in this case, results means a date with a match you’re interested in. You share your fears and doubts, we share the tricks of the trade.</p>
+
+				<p>This plan includes:</p>
+
+				<ul>
+					<li>All the benefits of ‘Write My Online Dating Profile’ PLUS…</li>
+
+					<li>A one-on-one coaching call that’ll help you get the best from online dating and determine what steps you can take to meet your ideal partner.</li>
+
+					<li>Assistance with identifying any dating blind spots that could be preventing you from meeting the right one for you.</li>
+
+					<li>Suggestions for offline dating methods based on the type of partner you are looking to meet.</li>
+
+					<li>Customised Dating Tips based on your current circumstances.</li>
+
+					<li>Plus bonus email dating support for one month after your coaching call.</li>
+
+					<button class="btn btn-danger btn-lg">Buy Now - $289.00</button
+				</ul>
+			</li>
+		</ul>
 	</div>
 	<div class="row last-cta">
 		
