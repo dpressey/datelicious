@@ -23,11 +23,9 @@
     font-style: normal;
 }
 
+.shell { max-width: 1010px; margin: 0 auto; }
 
-.header img {
-	position: relative;
-    left: -30px;
-}
+.clear { clear: both; }
 
 .first-cta img {
 	width: 500px;
