@@ -155,8 +155,12 @@
 			</li>
 		</ul>
 	</div>
+	
 	<div class="row last-cta">
 		
+		<h4>If you are looking for the real deal and want to get to the DATELICIOUS part of dating - let us help you land those dates and get you there sooner.</h4>	
+
+		<button class="btn btn-danger btn-lg">Buy Now - All 4 packages links to purchase with prices</button>
 	</div>
 </body>
 </html>
