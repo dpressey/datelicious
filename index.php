@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
-<body class="container">
+<body class="body-container">
 	<div class="header">
 		<a href="http://datelicious.com.au/" target="_blank"><img src="//v.fastcdn.co/t/e03b78b3/6c03a032/1470690389-228234-612x173-newlogodatelicious.png"></a>
 	</div>
