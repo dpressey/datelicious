@@ -162,5 +162,10 @@
 
 		<button class="btn btn-danger btn-lg">Buy Now - All 4 packages links to purchase with prices</button>
 	</div>
+
+	<div class="footer">
+		<a class="faq" href="" target="_blank">F.A.Q</a>
+		<a class="terms-and-conditions" href="" target="_blank">Terms and Conditions</a>
+	</div>
 </body>
 </html>
