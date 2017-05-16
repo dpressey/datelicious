@@ -23,15 +23,18 @@
     font-style: normal;
 }
 
+.shell { max-width: 1100px; margin: 0 auto; }
+
+.clear { clear: both; } 
 
 .header img {
-	position: relative;
-    left: -30px;
+	width: 450px;
+    height: 127px;
 }
 
 .first-cta img {
-	width: 500px;
-    height: 239px;
+	width: 450px;
+    height: 215px;
 }
 
 .first-cta .col-md-6 h1 {
@@ -51,7 +54,7 @@
 }
 
 .row.intro-copy { 
-    background: #E2E8FF;
+    background-color: #eceff1;
 }
 
 .row.intro-copy h2 { 
@@ -105,7 +108,7 @@
 }
 
 .row.plans {
-	background: #E2E8FF;
+	background-color: #eceff1;
 }
 
 .row.plans h2 {
@@ -138,6 +141,19 @@
 	margin-top: 50px;
 }
 
+.row.plans .list-unstyled .plan:nth-of-type(1) {
+	border-right: none;
+}
+
+.row.plans .list-unstyled .plan:nth-of-type(3) {
+	border-top: none;
+	border-right: none;
+}
+
+.row.plans .list-unstyled .plan:nth-of-type(4) {
+	border-top: none;
+}
+
 .row.plans .list-unstyled p {
 	text-align: center;
 	padding: 20px 0px;
@@ -162,13 +178,13 @@
 
 .row.plans ul li.plan ul li {
 	font-size: 18px;
-	font-weight: bolder;
 }
 
-.row.last-cta h4 {
+.row.last-cta h3 {
 	text-align: center;
 	margin-bottom: 30px;
-	font-size: 17px; 
+	line-height: inherit;
+	font-family: 'GT-Walsheim-Bold';
 }
 
 .row.last-cta .btn {
@@ -176,12 +192,21 @@
 	margin: 0 auto;
 }
 
+.footer { 
+	background-color: #eceff1;
+}
+
 .footer .faq {
 	float: left;
-	padding-bottom: 50px;
+	padding: 25px 25px;
+	font-size: 22px;
+	font-family: 'GT-Walsheim-Regular';
+
 }
 
 .footer .terms-and-conditions {
 	float: right;
-	padding-bottom: 50px;
+	padding: 25px 25px;
+	font-size: 22px;
+	font-family: 'GT-Walsheim-Regular';
 }
