@@ -11,7 +11,7 @@
 	</div>
 
 	<div class="row first-cta">
-		<div class="shell">
+		<div class="container">
 			<div class="col-md-6">
 				<img src="//v.fastcdn.co/t/e03b78b3/6c03a032/1470690399-235310-958x458-hero1.jpg">
 			</div>
