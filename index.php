@@ -32,20 +32,25 @@
 		<div class="col-md-12">
 			<h2>Headline Two</h2>
 
-			<p>Your dating profile is the key to meeting the right partner for you; however, no matter who you are or what you do, it’s not easy to write about yourself and then add it to a dating website.</p>
+			<div class="container">
+				<ul>
+				<li><p>Your dating profile is the key to meeting the right partner for you; however, no matter who you are or what you do, it’s not easy to write about yourself and then add it to a dating website.</p></li>
 			
-			<p>You may be missing potential matches if your online dating profile doesn’t detail what you have to offer.</p>
+				<li><p>You may be missing potential matches if your online dating profile doesn’t detail what you have to offer.</p></li>
 			
-			<p>It’s time to transform your underperforming online dating profile or, if you’re new to the game, take the leap into online dating. Turn online dating into a tool that highlights your fun side, who you are, and why a potential match should look no further than the profile right in front of them (and click to get in touch).</p>
+				<li><p>It’s time to transform your underperforming online dating profile or, if you’re new to the game, take the leap into online dating. Turn online dating into a tool that highlights your fun side, who you are, and why a potential match should look no further than the profile right in front of them (and click to get in touch).</p></li>
 			
-			<p>The good news is that you don’t have to go it alone. We will work with you to create a dynamic profile that impresses potential matches, emphasises your qualities and outlines what you are looking for in a partner.</p>
+				<li><p>The good news is that you don’t have to go it alone. We will work with you to create a dynamic profile that impresses potential matches, emphasises your qualities and outlines what you are looking for in a partner.</p></li>
+			</ul>
+			</div>
+			
 		</div>
 	</div>
 	<div class="row three-steps">
 		<h2>3 Easy Steps to an Impressive Profile</h2>
 
-		<div class="shell">
-			<ol class="custom-counter">
+		<div class="container">
+			<ul class="custom-counter">
 				<li class="col-md-4">
 					<h3>Choose Your Plans</h3>
 					<img src="//v.fastcdn.co/t/e03b78b3/6c03a032/1470690396-236292-100x100-0110TargetArrow100.png">
@@ -63,9 +68,8 @@
 					<img src="//v.fastcdn.co/t/e03b78b3/6c03a032/1470690394-235272-100x100-0065Speedometer100.png">
 					<p>Once we have received your questionnaire our team gets busy writing your online dating profile. We will deliver a stand out online dating profile within four business days.</p>				
 				</li>
-			</ol>
-
-			<div class="clear"></div>
+				<div class="clear"></div>
+			</ul>
 		</div>
 
 	</div>

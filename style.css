@@ -46,7 +46,6 @@
 .first-cta .col-md-6 p { 
 	font-size: 23px;
     margin: 0 0 24px;
-    font-family: 'GT-Walsheim-Regular';
 }
 
 .row {
@@ -64,10 +63,13 @@
 	text-decoration: underline;
 }
 
+.row.intro-copy .container { 
+	padding-bottom: 20px; 
+}
+
 .row.intro-copy p {
 	font-size: 22px;
-    font-family: 'GT-Walsheim-Regular';
-    padding: 0px 50px;
+    padding: 0px 15px;
 }
 
 .row.three-steps h2 { 
@@ -96,6 +98,7 @@
     margin-left: 0;
     padding-right: 0;
     list-style-type: none;
+    padding: 0px;
 }
 
 .row.three-steps img {
@@ -127,7 +130,6 @@
 .row.plans p {
 	text-align: center;
 	font-size: 22px;
-	font-family: 'GT-Walsheim-Regular';
 }
 
 .row.plans ul li.plan {
@@ -178,6 +180,7 @@
 
 .row.plans ul li.plan ul li {
 	font-size: 18px;
+	line-height: 1.9;
 }
 
 .row.last-cta h3 {
