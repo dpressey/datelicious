@@ -221,6 +221,7 @@ body, html {
 .row.plans ul li.plan ul li {
 	font-size: 18px;
 	line-height: 1.9;
+	list-style-type: disc;
 }
 
 .row.last-cta h3 {
