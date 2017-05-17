@@ -23,6 +23,10 @@
     font-style: normal;
 }
 
+body, html {
+    height: 100%;
+}
+
 .shell { max-width: 1100px; margin: 0 auto; }
 
 .clear { clear: both; } 
@@ -33,9 +37,39 @@
     margin: 0px 30px;
 }
 
-.first-cta img {
-	width: 500px;
-    height: 239px;
+.row.first-cta { 
+	margin: 0px; 
+}
+
+.first-cta .hero {
+    /* The image used */
+    background-image: url("images/datelicious-hero.jpg");
+
+    /* Set a specific height */
+    height: 720px;
+
+    /* Position and center the image to scale nicely on all screens */
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.first-cta .hero .col-md-4 {
+	position: absolute;
+	bottom: 50px;
+}
+
+.first-cta .hero .col-md-4 h1 {
+	color: #fff;
+	font-size: 42px;
+	margin: 0 0 20px;
+}
+
+.first-cta .hero .col-md-4 p {
+	color: #fff;
+	font-size: 20px;
+	margin: 0 0 20px;
+	width: 300px;
 }
 
 .first-cta .col-md-6 h1 {
@@ -49,8 +83,8 @@
     margin: 0 0 24px;
 }
 
-.row {
-	margin: 50px 0px;
+.row.intro-copy { 
+	margin: 0px; 
 }
 
 .row.intro-copy { 
@@ -163,7 +197,7 @@
 
 .row.plans .list-unstyled p {
 	text-align: center;
-	padding: 20px 0px;
+	padding: 20px 20px;
 }
 
 .row.plans ul li.plan h3 {
@@ -191,8 +225,13 @@
 .row.last-cta h3 {
 	text-align: center;
 	margin-bottom: 30px;
+	margin-top: 30px;
 	line-height: inherit;
 	font-family: 'GT-Walsheim-Bold';
+}
+
+.row.last-cta {
+	margin-bottom: 50px;
 }
 
 .row.last-cta .btn {

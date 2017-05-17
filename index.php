@@ -11,20 +11,14 @@
 	</div>
 
 	<div class="row first-cta">
-		<div class="container">
-			<div class="col-md-6">
-				<img src="//v.fastcdn.co/t/e03b78b3/6c03a032/1470690399-235310-958x458-hero1.jpg">
-			</div>
-
-			<div class="col-md-6">
-				<h1>Get Your Online Dating Profile</h1>
+		<div class="hero">
+			<div class="col-md-4">
+				<h1>Get Your Online <br> Dating Profile</h1>
 				<p>Build an online dating profile that will get you discovered
 				and helps you connect with the right potential partners.
 				</p>
 				<button type="button" class="btn btn-danger btn-lg">Show Me Profile Plans!</button>
-			</div>
-
-			<div class="clear"></div>
+			</div>				
 		</div>
 	</div>
 
